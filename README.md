@@ -9,3 +9,12 @@
 # Welcome to ENTR-451
 
 This is an example of a GitHub repository.
+
+# shopping list #
+
+- Tortillas
+- Chicken
+- Avocado
+- Sour Cream
+- Salt
+- Hot Sauce
