@@ -18,3 +18,6 @@ This is an example of a GitHub repository.
 - Sour Cream
 - Salt
 - Hot Sauce
+- Chips
+- Salsa
+- Ice cream
